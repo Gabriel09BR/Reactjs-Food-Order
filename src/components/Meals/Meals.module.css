@@ -1,0 +1,28 @@
+.tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0;
+  margin: 2rem 0;
+}
+
+.tabs button {
+  padding: 0.6rem 1.8rem;
+  border-radius: 0;
+  border: 2px solid #8a2b06;
+  background-color: white;
+  color: #8a2b06;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tabs button:hover {
+  background-color: #f5d1c3;
+  transform: translateY(-2px);
+}
+
+.active {
+  background-color: #8a2b06;
+  color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
