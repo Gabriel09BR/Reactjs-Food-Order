@@ -3,7 +3,9 @@
 A modern and responsive dummy restaurant website built with React.
 The project simulates an online ordering interface for a fictional wrap house, including categorized menus and dynamic filtering.
 
----
+## 📸 Preview
+
+![WrapHouse Preview](./src/assets/WrapHouseWebsite.png)
 
 ## 🚀 Features
 
